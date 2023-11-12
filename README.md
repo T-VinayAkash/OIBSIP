@@ -22,7 +22,7 @@ Dataset : Car dataset from Kaggle : DATASET
 
 Project Steps : Data Preprocessing : Load the car dataset and inspect its structure. Data Analysis : Explore the dataset by visualizing the relationships between different features. Data Splitting : Split the dataset into training and testing sets. Model Training : Select multiple machine learning algorithms suitable for classification tasks, train each model using the training data. Model Evaluation : Evaluate the trained models using the testing data.
 
-Task 4
+TASK 4
 
 EMAIL SPAM DETECTION WITH MACHINE LEARNING
 
